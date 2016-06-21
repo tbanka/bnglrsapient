@@ -11,4 +11,10 @@ public string sanket(){
 return "hello sanket";
 }
 
+
+public String getMessage(){
+
+  return "Hello";
+
+}
 }
