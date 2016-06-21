@@ -6,4 +6,7 @@ public string show(){
 
 return "hello";
 }
+public string tarang(){
+return "banka";
+}
 }
