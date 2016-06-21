@@ -6,4 +6,9 @@ public string show(){
 
 return "hello";
 }
+public string sanket(){
+
+return "hello sanket";
+}
+
 }
